@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/scratch/convidado/Desktop/processador_or/or32bits/or32b_tb_isim_beh.exe" -prj "/scratch/convidado/Desktop/processador_or/or32bits/or32b_tb_beh.prj" "work.or32b_tb" 
