@@ -1,4 +1,0 @@
-vhdl work "or4b.vhd"
-vhdl work "or8b.vhd"
-vhdl work "or32b.vhd"
-vhdl work "or32b_tb.vhd"

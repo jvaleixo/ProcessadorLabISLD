@@ -1,7 +1,7 @@
---------------------------------------------------------------------------------
--- Company: 
--- Engineer:
---
+----------------------------------------------------------------------------------
+-- Company: UFSJ
+-- Engineer: Juan Aleixo, Henrique Mendes, Gustavo Damasceno, Wesley 
+-- 
 -- Create Date:   18:18:06 11/08/2022
 -- Design Name:   
 -- Module Name:   /scratch/convidado/Desktop/processador_or/or32bits/or4b_tb.vhd
