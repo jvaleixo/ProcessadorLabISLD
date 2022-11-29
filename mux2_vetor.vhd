@@ -26,11 +26,10 @@ entity mux2_vetor is
 end mux2_vetor;
 
 architecture Behavioral of mux2_vetor is
-
-	saida <= (e(1) and not sel) or (e(0) and sel);
 	
 begin
 
+	saida <= (e(1) and not sel) or (e(0) and sel);
 
 end Behavioral;
 
