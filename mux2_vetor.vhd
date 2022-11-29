@@ -29,7 +29,7 @@ architecture Behavioral of mux2_vetor is
 	
 begin
 
-	saida <= (e(1) and not sel) or (e(0) and sel);
+	saida <= (e(1) and sel) or (e(0) and not sel);
 
 end Behavioral;
 
