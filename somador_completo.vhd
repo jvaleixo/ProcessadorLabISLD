@@ -20,4 +20,3 @@ begin
 	soma <= (a xor b) xor vemUm;
 	vaiUm <= (a and b) or ((a xor b) and vemUm);
 end Behavioral;
-
